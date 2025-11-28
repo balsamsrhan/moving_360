@@ -1,16 +1,35 @@
-# moving_360
+# 🎥 360 Product Viewer App
 
-A new Flutter project.
+A professional Flutter application that allows users to interact with products through **360-degree rotation animation** and **embedded product video playback**.  
+The app is designed with a clean UI, smooth animations, and supports both images sequence rotation and video preview.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔄 **360° Product Rotation** using an image sequence  
+- 🎬 **Product Video Playback** (MP4 / Network / Asset)  
+- 🎚️ Smooth animation controls  
+- 📱 Responsive & modern UI  
+- ⚡ Fast performance with optimized rendering  
+- 🧩 Clean architecture ready for API / CMS integration  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧩 Tech Stack
+
+- **Flutter**
+- **Dart**
+- **video_player** package  
+- **InteractiveViewer / Custom GestureDetector**  
+- **Image sequence loader for rotation**  
+
+---
+## 👨‍💻 Developer
+Balsam serhan || Flutter Developer
+
+GitHub: https://github.com/balsamsrhan
+
+LinkedIn: https://www.linkedin.com/in/balsam-serhan/
+
+Email: serhanbalsam54@gmail.com
